@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f716f175205fb626f76b34568ac34b2c",
+    "revision": "a3154cb1b10a22353285ba2531ed80b9",
     "url": "/rockandfriendsweb/index.html"
   },
   {
-    "revision": "06b299697b52945e5c91",
+    "revision": "9a72dd438af151b3e910",
     "url": "/rockandfriendsweb/static/css/main.0b3051b3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rockandfriendsweb/static/js/2.c3b9d598.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06b299697b52945e5c91",
-    "url": "/rockandfriendsweb/static/js/main.c931a269.chunk.js"
+    "revision": "9a72dd438af151b3e910",
+    "url": "/rockandfriendsweb/static/js/main.49f588a3.chunk.js"
   },
   {
     "revision": "3364aff738ef7a30f755",
